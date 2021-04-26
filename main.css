@@ -51,7 +51,7 @@ img
 
 /* END RESET */
 body {
-  font: italic small-caps normal 13px/150% Arial, Helvetica, sans-serif;
+  padding:5%;
 }
 
 h1 {
@@ -60,8 +60,6 @@ h1 {
 
 p.tag {
   font: italic 75% 'Merriweather', serif;
-  font-size:75%;
-  font-style:italic;
 }
 
 p {
