@@ -1,1 +1,18 @@
 
+h1 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight:900;
+  font-size:200%;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+  font-size:75%;
+  font-style:italic;
+}
+
+p + p {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight:900;
+  font-size:150%;
+}
