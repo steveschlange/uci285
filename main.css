@@ -55,11 +55,11 @@ body {
 }
 
 h1 {
-  font: 900 300% 'Noto Sans JP', sans-serif;
+  font: 300 300% 'Noto Sans JP', sans-serif;
 }
 
 p {
-  font: normal 300 700% 'Noto Sans JP', sans-serif;
+  font: normal 900 800% 'Noto Sans JP', sans-serif;
   padding: 0 0 20px 0;
 }
 
