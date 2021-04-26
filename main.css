@@ -58,10 +58,11 @@ h1 {
   font: 900 300% 'Noto Sans JP', sans-serif;
 }
 
-p.tag {
-  font: italic 75% 'Merriweather', serif;
-}
-
 p {
   font: normal 300 700% 'Noto Sans JP', sans-serif;
+  padding: 0 0 20px 0;
+}
+
+p.tag {
+  font: italic 75% 'Merriweather', serif;
 }
