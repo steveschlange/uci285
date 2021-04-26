@@ -1,4 +1,4 @@
-/* CSS Mini Reset */
+/* BEGIN RESET */
 
 html,
 body,
@@ -50,9 +50,12 @@ img
 }
 
 /* END RESET */
+body {
+  font: italic small-caps normal 13px/150% Arial, Helvetica, sans-serif;
+}
 
 h1 {
-  font: 300% 900 'Noto Sans JP', sans-serif;
+  font: 900 300% 'Noto Sans JP', sans-serif;
 }
 
 p.tag {
@@ -62,5 +65,5 @@ p.tag {
 }
 
 p {
-  font: normal 150%  300 'Noto Sans JP', sans-serif;
+  font: normal 300 150% 'Noto Sans JP', sans-serif;
 }
